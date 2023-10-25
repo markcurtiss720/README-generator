@@ -16,22 +16,17 @@ A node.js command application that will generate a professional README.md file u
 
 ## Installation
 
-`node.js` 
-`node install inquirer`
+`node.js` `npm install inquirer@8.2.4`
 
 ## Usage
 
-Screenshots and video will be posted soon
-
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    md
-    ![alt text](assets/images/screenshot.png)
+the link below will take you to a video tutorial on how to get the application to work. 
+https://watch.screencastify.com/v/nKLrcywREVxDAD6V3MDq
     
 
 ## Credits
 
-There are currently no contributers
+THere are none at this time.
 
 ## License
     
@@ -46,7 +41,7 @@ follow the github link below
 
 ## Tests
 
-There are no tests at this time
+There are none at this time.
 
 
 ## Questions
